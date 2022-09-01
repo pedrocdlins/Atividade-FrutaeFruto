@@ -1,2 +1,2 @@
-# Atividade-FrutaeFruto
-Atividade da Alura / Site Fruta e Fruto
+# arquitetura-css
+curso de arquitetura da Alura. 
